@@ -1,0 +1,16 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "description": "Meeting the Event Emmiter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start nodemon": "nodemon index"
+  },
+  "keywords": [
+    "event",
+    "emitter"
+  ],
+  "author": "Kirill K. <websiteproduct@gmail.com>",
+  "license": "ISC"
+}
