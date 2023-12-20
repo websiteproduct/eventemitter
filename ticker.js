@@ -1,8 +1,8 @@
 import { EventEmitter } from "node:events";
 
-class Ticker extends EventEmitter {}
+class TickerEmitter extends EventEmitter {}
 
-const ticker = new Ticker();
+const ticker = new TickerEmitter();
 
 let tickCount = 1;
 
